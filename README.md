@@ -1,0 +1,44 @@
+## Yashil sochli yigit
+
+(Kirishi)
+Ikki-uch nafar ishga oluvchilar suhbatdan o‘tgan nomzodlarni muhokama qilishyapti. Ular orasida bir yigit bor — juda aqlli va yoqimli, lekin sochi yashil rangda. Shu masala atrofida bahs boshlanadi.
+
+Marcos: Oxirgi talaba menga juda yoqdi.
+U aqlli, fe’l-atvori zo‘r, hazilkash ham edi.
+
+Allen: Rostdanmi? Jiddiy gapiryapsanmi? Yashil soch bilan?
+
+Masumi: Uning soch rangi shunchalik muhimmi? Yashil sochli o‘sha yigitmi? Men Marcos bilan roziman. U juda yaxshi edi.
+
+Allen: Ammo uning sochi yashil edi! O‘zini hurmat qilgan hech qanday talaba ish suhbatiga yashil soch bilan kelmaydi!
+
+Masumi: U shunchaki boshqacha. Meningcha, u juda dadil yigit.
+
+Allen: Boshqacha? Albatta boshqacha! U hatto sabzavotga o‘xshardi. Mijozlar bilan gaplashayotganini tasavvur qila olasanmi? Yashil soch bilan? Hech qachon!
+
+Marcos: Agar seni shunchalik bezovta qilsa, uni ishga olganimizdan keyin soch rangini o‘zgartirishini aytsak bo‘ladi-ku.
+
+Masumi: Men bunaqa fikrga qo‘shilmayman, Marcos. Soch rangi — odamning muhim bir qismi. Uni soch rangini majburan o‘zgartirishga undab bo‘lmaydi.
+
+Allen: Unday bo‘lsa, uni olmaylik. Men uni olishga qat’iyan qarshiman.
+
+Marcos: Ammo agar biz uni ishga olmasak, juda yaxshi odamni qo‘ldan boy beramiz deb o‘ylayman.
+
+### Muhokama
+
+Ba’zi odamlar o‘z shaxsiyatini ko‘rsatish uchun turli xil uslub va kiyinishlarga harakat qilishadi.
+Lekin ba’zan bu boshqalar tomonidan qabul qilinmasligi ham mumkin.
+Siz uchun nimalar qabul qilinsa bo‘ladi, nimalar bo‘lmaydi? O‘zingizdan bir fikr ham qo‘shing!
+
+### Jadval: Qanday yondashasiz?
+
+| Mavzu | Men buni qilardim | Yaxshi, lekin men o‘zim buni qilmasdim. | Yo‘q, buni qilmasdim. Bu tentaklik! |
+| --- | --- | --- | --- |
+| sochimni boshqa rangga bo‘yash | [ ] | [ ] | [ ] |
+| qo‘limga tatuirovka yaptirish | [ ] | [ ] | [ ] |
+| mo‘hikancha soch turmagini qilish | [ ] | [ ] | [ ] |
+| tilimni teshdirish | [ ] | [ ] | [ ] |
+| burnimni teshdirish | [ ] | [ ] | [ ] |
+| yirtiq jinsilar kiyish | [ ] | [ ] | [ ] |
+| rangli kontakt linzalar taqish | [ ] | [ ] | [ ] |
+| boshimni butunlay qirdirib tashlash | [ ] | [ ] | [ ] |
