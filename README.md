@@ -24,12 +24,19 @@ Allen: Unday bo‘lsa, uni olmaylik. Men uni olishga qat’iyan qarshiman.
 
 Marcos: Ammo agar biz uni ishga olmasak, juda yaxshi odamni qo‘ldan boy beramiz deb o‘ylayman.
 
+---
+
 NIMA DEYSAN?
 
 Ken: Ish suhbatiga noodatiy kiyimda borish — normal hol.
+
 Mika: O‘ziga o‘xshamagancha ko‘rinadigan odamlar g‘alati.
+
 Susan: Do‘stlaringga o‘xshab kiyinish — yaxshi fikr.
+
 Luis: Boshqalardan farq qiladigan odamlar doimo muammo chiqaradi.
+
+---
 
 ### Muhokama
 
