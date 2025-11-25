@@ -70,3 +70,31 @@ Siz uchun nimalar qabul qilinsa bo‘ladi, nimalar bo‘lmaydi? O‘zingizdan bi
 
 ![Rasm 3](images/3.png)
 
+---
+
+### KIYIM HAQIDA FIKRLAR
+
+#### Qaysi jihatlar eng muhim?
+
+Kiyim xarid qilganda siz uchun eng muhim bo‘lgan jihatlar qaysilar?
+Quyidagi bandlarni 1–6 gacha baholang (1 — eng muhim):
+
+| Jihat | Baholash (1–6) |
+| --- | --- |
+| rang |  |
+| uslub (stil) |  |
+| qulaylik |  |
+| narx |  |
+| sizga qanday yarashishi |  |
+| brend / dizayner yorlig‘i |  |
+
+#### Bu kiyimlarni kiyarmidingiz? Qayerda yoki qanday vaziyatda?
+
+| Kiyim turi | Kiymoqchimisiz? | Qayerda/vaziyat |
+| --- | --- | --- |
+| yirtiq kiyimlar | [ ] Ha / [ ] Yo‘q |  |
+| eski (ko‘p kiyilgan) kiyimlar | [ ] Ha / [ ] Yo‘q |  |
+| kir kiyimlar | [ ] Ha / [ ] Yo‘q |  |
+| juda zamonaviy kiyimlar | [ ] Ha / [ ] Yo‘q |  |
+| juda yopishqoq (juda tor) kiyimlar | [ ] Ha / [ ] Yo‘q |  |
+| juda konservativ (klassik, oddiy) kiyimlar | [ ] Ha / [ ] Yo‘q |  |
