@@ -56,3 +56,17 @@ Siz uchun nimalar qabul qilinsa bo‘ladi, nimalar bo‘lmaydi? O‘zingizdan bi
 | yirtiq jinsilar kiyish | [ ] | [ ] | [ ] |
 | rangli kontakt linzalar taqish | [ ] | [ ] | [ ] |
 | boshimni butunlay qirdirib tashlash | [ ] | [ ] | [ ] |
+
+---
+
+### MAVZUNI O‘YLAB KO‘RING
+
+1. Rasmdagi odamlar nega xafa yoki ranjigandek ko‘rinadi?
+2. Hech qachon rasmlardagi odamlarning holatini o‘zingizda sezganmisiz? Nima bo‘lgan edi?
+
+![Rasm 1](images/1.png)
+
+![Rasm 2](images/2.png)
+
+![Rasm 3](images/3.png)
+
