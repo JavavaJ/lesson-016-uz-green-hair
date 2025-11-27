@@ -98,3 +98,110 @@ Quyidagi bandlarni 1–6 gacha baholang (1 — eng muhim):
 | juda zamonaviy kiyimlar | [ ] Ha / [ ] Yo‘q |  |
 | juda yopishqoq (juda tor) kiyimlar | [ ] Ha / [ ] Yo‘q |  |
 | juda konservativ (klassik, oddiy) kiyimlar | [ ] Ha / [ ] Yo‘q |  |
+
+---
+
+### Muammolar
+
+#### Muammo 1
+
+Siz maktabga yoki ish suhbatiga kechikayapsiz. Kostyumingizning tugmasi yo‘qligini payqadingiz.
+Siz:
+a. Tugmani tikasiz, hatto bu sizni yanada kechiktirsa ham.
+b. Boshqa kostyumga almashtirasiz, garchi u biroz tor bo‘lsa ham.
+c. Tugmasiz holda borasiz.
+d. Tugma o‘rniga kulgili belgi (znachok) taqasiz.
+e. Boshqa variant:
+Sabab:
+
+#### Muammo 2
+
+Siz bir ziyofatdasiz. Kimdir siz bilan aynan bir xil kiyim kiygan.
+Siz:
+a. O‘sha odamingizdan uzoqlashasiz.
+b. Ziyofatdan darhol chiqib ketasiz.
+c. “Sizning didingiz zo‘r ekan. Kiyimim sizga ham yoqqaniga xursandman,” deb aytasiz.
+d. “Bu kiyimni qayerdan olgansiz? Nechiga olgansiz?” deb so‘raysiz.
+e. Boshqa variant:
+Sabab:
+
+#### Muammo 3
+
+Siz o‘rta maktab direktorisiz.
+Siz:
+a. O‘quvchilarga xohlagan kiyimini kiyishga ruxsat berasiz.
+b. O‘quvchilarga xohlagan kiyimini kiyishga ruxsat berasiz, lekin tartibli va toza bo‘lishi shart.
+c. O‘quvchilarga forma kiyishni majburiy qilasiz.
+d. Forma shart emas, ammo maktabda ruxsat etilgan kiyimlar bo‘yicha qat’iy qoidalar joriy qilasiz.
+e. Boshqa variant:
+Sabab:
+
+---
+
+### Chiroyli ona
+
+Risa 15 yoshda. Onasi esa hozir 40 yoshga kirgan. Risa onasining g‘alati harakat qilayotganini o‘ylaydi. Nima uchun Risa shunday deb o‘ylayapti?
+
+Mari: Risa, hozir onangni ko‘rdim. U kiyimlarini juda zamonaviy qilib kiyibdi. Juda yosh va “zamonaviy” ko‘rinadi.
+
+Risa: Yosh? Zamonaviy? Voy! Juda uyaltiradi! Doim yoshlar kiyadigan kiyimlarni kiyishga urinadi, sizlar bilan musiqalar haqida gaplashadi. Bu meni jinni qilayapti.
+
+Mari: Lekin menimcha, bu yaxshi-ku. Menga onang yoqadi. U juda quvnoq.
+
+Risa: Menga esa yoqmaydi. Uning 40 yoshga kirganidan beri hammasi o‘zgardi. Xuddi bizning yoshimizdagidek yurishga harakat qiladi. Bu noto‘g‘ri. Mening do‘konlarimga borishni xohlaydi, hatto moda jurnallarimni ham “olib turadi”, keyin topolmay qolaman.
+
+Mari: Rostdanmi?
+
+Risa: U sochini oqartirdi, kichkina ko‘ylaklar va kalta yubkalar kiyishni boshladi. Endi esa tatuirovka qilishni o‘ylayapti!
+
+Mari: Haqiqatanmi?!
+
+Risa: Agar shunaqa qilsa, men u bilan ko‘chaga chiqmayman.
+
+Mari: Aslida u sening do‘sting bo‘lishni xohlayotgani yaxshi-ku. Mening onam esa doim: “Qayerga ketyapsan? Qachon qaytasan? Kim bilan borayapsan?” deb so‘raydi. Menimcha, onang sendan maslahat so‘rashi yoki seni xaridga olib borishi juda yaxshi.
+
+Risa: Ha, lekin mening onam juda oshirib yubordi. Dadam ham yordam bermayapti. U onamni “har qachongidan ham chiroyli va jozibali” deb aytadi. “Yaxshi vino kabi, yillar o‘tgani sari yanada mazali bo‘lasan,” deydi. Fu-u-u!
+
+Mari: Fu-u-u!
+
+Risa: Bu juda yoqimsiz!
+
+---
+
+### Uchta fikrni o‘qing.
+
+Uchta fikrni o‘qing.
+
+James:
+Risaning onasi muammoga duch kelayotgani ko‘rinadi, Risa uni qo‘llab-quvvatlashga harakat qilishi kerak.
+
+Amber:
+Risaga onasining qilayotgan ishlari yoqmaydi, lekin u baribir buni qabul qilishi kerak.
+
+Ray:
+Risa onasini ruhlantirishi va u hayotdan zavqlanayotganidan xursand bo‘lishi kerak.
+
+Ko‘makchi gaplarni fikrlar bilan moslang.
+
+Har bir fikrga ikki tadan mos gap bor.
+
+Ko‘makchi gaplar
+
+- Kiyim uslublarini baham ko‘rish — birga vaqt o‘tkazishning yaxshi imkoniyati.
+- Ehtimol, onasida ko‘p stress bor. U qo‘llab-quvvatlashga muhtoj.
+- Bolalar ota-onalarini hurmat qilishlari kerak.
+- Risa onasini shifokorga olib borishi kerak.
+- Risa onasi haqida do‘stlari nima deb o‘ylashidan xavotirlanmasligi kerak.
+- Risa onasining hayotdan zavqlanayotganidan xursand bo‘lishi kerak.
+
+---
+
+### Muhokama
+
+- Kiygan kiyimlaring kayfiyatingga ta’sir qiladimi?
+- Kiyim xarid qilishni yoqtirasanmi? Odatda qayerdan xarid qilasan?
+- Kiyimni onlayn olgan yaxshi, yoki do‘kondan olgan yaxshi?
+- Kiyim odam haqida birinchi taassurotga qanday ta’sir qiladi?
+- Odamlar boshqalarga kiyimi bo‘yicha baho berishadi deb o‘ylaysanmi? Bu adolatlimi?
+- Qimmat, mashhur brend kiyimlar haqida fikring qanday?
+- Formalar (uniformalar) yaxshi fikr deb o‘ylaysanmi? Nega?
